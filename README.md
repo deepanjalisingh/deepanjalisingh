@@ -1,3 +1,4 @@
+![Hello!](https://www.vecteezy.com/vector-art/4223184-panda-cartoon-cute-say-hello-panda-animals-illustration)
 <h1 align="center">Hi 👋, I'm Deepanjali Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
