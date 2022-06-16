@@ -1,4 +1,4 @@
-![Hello!](https://www.vecteezy.com/vector-art/4223184-panda-cartoon-cute-say-hello-panda-animals-illustration)
+![Hello!]("https://avatars.githubusercontent.com/u/9919?s=280&v=4")
 <h1 align="center">Hi 👋, I'm Deepanjali Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
